@@ -1,1 +1,1 @@
-# CENTREx-Advanced-Clustering-Approach
+# CENTREx Advanced Clustering Approach
