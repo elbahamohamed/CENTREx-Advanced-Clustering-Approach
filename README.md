@@ -1,2 +1,2 @@
 # CENTREx Advanced Clustering Approach
-Given $N$ 
+Given $$x_i$$
